@@ -14,6 +14,7 @@ This leaves two possible routes to give the company.
 
 2) Spend more resources on the website because the mobile app is doing so well there is no need to keep improving. Try and concentrate on efforts on getting the website to be as productive as the mobile app.
 
+
 Programming Languages: Python
 
 Tools/Libraries: Pandas, NumPy, SciKit-Learn(SKLearn), Matplotlib, Seaborn, Jupyter Notebook,
