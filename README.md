@@ -1,5 +1,9 @@
 # Linear Regression Ecommerce Consulting Project
 
+### IMPORTANT NOTE:
+If the notebook is not loading in Github it can alternatively be viewed on this link via nbviewer.
+https://nbviewer.jupyter.org/github/epiacentini/LinReg_Consulting_Project/blob/main/Linear_Regression_Ecommerce_Project.ipynb
+
 Provided with a dataset about a companies' mobile app and website usage I try and gain insights about how they should take to improve dollars spent on their product. Data also provided in the dataset is Average Session Length, Yearly Time Spent, Yearly Dollars Spent and Length of Membership. We are ultimately trying to predict how much a user will spend per year and what could we do to improve this number, i.e. get users to spend more money.
 
 By exploring the data there are a lot of initial correlations that are easy to see such as Yearly Time Spent and Average Session Length. Also, Time on App and Yearly Dollars Spent as well as Time on Webiste and Yearly Dollars Spent.
